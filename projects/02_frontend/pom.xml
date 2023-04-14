@@ -45,7 +45,7 @@
 		<version.maven.war>2.6</version.maven.war>
 
 		<!-- json version -->
-		<version.org.json>20150729</version.org.json>
+		<version.org.json>20230227</version.org.json>
 
 		<version.arquillian.angularjs.graphene>1.2.0.Beta1</version.arquillian.angularjs.graphene>
 
